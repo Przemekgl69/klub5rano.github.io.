@@ -38,6 +38,7 @@ body {
     color: rgb(214, 207, 175);
     border-style: groove;
     border-width: 10px;
+    border-radius: 10px;
     
    
   }
